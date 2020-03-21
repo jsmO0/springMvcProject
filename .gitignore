@@ -1,0 +1,4 @@
+# Project exclude paths
+/dao/target/
+/getArticleFromWeb/target/
+/webview/target/
